@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @routinexposure
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+iOS Developer focused on building scalable and business-driven mobile applications.
 
-<!---
-routinexposure/routinexposure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Swift • SwiftUI • MVVM • Clean Architecture
+
+Создаю MVP и развиваю продукты с ориентацией на реальную пользу для бизнеса.
+Интересуюсь архитектурой приложений, системным подходом и долгосрочным развитием проектов.
