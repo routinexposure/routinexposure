@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:FF8A00&height=220&section=header&text=Hi,%20I'm%20Madi%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Swift%20Developer%20·%20Astana,%20Kazakhstan&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:FF8A00&height=220&section=header&text=Madi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20@%20Diona&descAlignY=58&descSize=20" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/routinexposure">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F05138&center=true&vCenter=true&width=600&lines=iOS+Developer+%40+Diona;Building+apps+with+Swift+%26+SwiftUI;Clean+code+%C2%B7+Smooth+UI+%C2%B7+Fast+apps;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F05138&center=true&vCenter=true&width=500&lines=iOS+Developer+%40+Diona" alt="iOS Developer @ Diona" />
   </a>
 </p>
 
@@ -15,17 +15,6 @@
     <img src="https://img.shields.io/github/followers/routinexposure?label=Followers&style=flat&color=F05138" alt="followers" />
   </a>
 </p>
-
----
-
-## 👨‍💻 About me
-
-- 🍎 iOS developer — I build native apps with **Swift**
-- 🏢 Working at **Diona**
-- 📍 Based in **Astana, Kazakhstan**
-- 🔭 Currently working on **diona-smarts** and **diona-agent**
-- 💬 Ask me about **iOS, SwiftUI, UIKit**
-- ⚡ Fun fact: _write something about yourself here_
 
 ---
 
@@ -44,7 +33,7 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Projects
 
 <p align="center">
   <a href="https://github.com/routinexposure/Diona-IOS-App">
@@ -74,13 +63,11 @@
 
 ---
 
-## 🐍 Contribution snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/routinexposure/routinexposure/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/routinexposure/routinexposure/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/routinexposure/routinexposure/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/routinexposure/routinexposure/output/github-snake.svg" />
   </picture>
 </p>
 
