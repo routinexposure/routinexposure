@@ -33,36 +33,6 @@
 
 ---
 
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/routinexposure/Diona-IOS-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=routinexposure&repo=Diona-IOS-App&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138&text_color=c9d1d9" alt="Diona-IOS-App" />
-  </a>
-  <a href="https://github.com/routinexposure/Diona-Academy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=routinexposure&repo=Diona-Academy&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138&text_color=c9d1d9" alt="Diona-Academy" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=routinexposure&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=F05138&icon_color=F05138&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=routinexposure&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=F05138&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=routinexposure&hide_border=true&background=0d1117&ring=F05138&fire=F05138&currStreakLabel=F05138&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=routinexposure&bg_color=0d1117&color=c9d1d9&line=F05138&point=FF8A00&area=true&area_color=F05138&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/routinexposure/routinexposure/output/github-snake-dark.svg" />
