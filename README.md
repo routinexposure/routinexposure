@@ -41,16 +41,6 @@
   </picture>
 </p>
 
----
-
-## 📫 Contacts
-
-<p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:F05138&height=120&section=footer" alt="footer" />
