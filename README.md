@@ -8,13 +8,3 @@
 ***🍎 iOS Developer at Diona***
 
 ***Swift*** | ***SwiftUI*** | ***UIKit*** | ***C#***
-
-## Currently working on
-
-<a href="https://github.com/routinexposure/Diona-IOS-App">
-  <img src="https://socialify.git.ci/routinexposure/Diona-IOS-App/image?description=1&language=1&name=1&owner=1&pattern=Plus&theme=Auto" alt="Diona-IOS-App" width="640" />
-</a>
-
-<a href="https://github.com/routinexposure/Diona-Academy">
-  <img src="https://socialify.git.ci/routinexposure/Diona-Academy/image?description=1&language=1&name=1&owner=1&pattern=Plus&theme=Auto" alt="Diona-Academy" width="640" />
-</a>
